@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/resist-js/rfcs/blob/master/README.md"
+    >English</a>
+  ·
+  <a
+    href="https://github.com/resist-js/rfcs/blob/master/docs/zh-CN/README.md"
+    >简体中文</a>
+</p>
+
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
 - RFC PR: (leave this empty)
 - resist.js Issue: (leave this empty)
